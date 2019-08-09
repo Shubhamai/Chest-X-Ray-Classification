@@ -9,8 +9,8 @@ This Deep Learning Model capable to classify the Chest X-Rays in Patients with P
 
 # About Dataset
 
-~ The datset contains three folder 1.Train 2.Test #.Validation and has two categories (Pneumonia/Normal). There are total 5863 X-Ray Images.
+~ The datset contains three folder 1.Train 2.Test 3.Validation and has two categories (Pneumonia/Normal). There are total 5863 X-Ray Images.
 
 # About code
 
-~ The code is in the jupyter notebook and model is mode for keras library backend from tensorflow.
+~ The code is in the jupyter notebook and model is made for keras library backend from tensorflow.
